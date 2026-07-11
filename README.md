@@ -1,19 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Carson! 👋
 
-[![Carsons's GitHub stats](https://github-stats-extended.vercel.app/api?username=thefujirose)](https://github.com/stats-organization/github-stats-extended)
+[![Carson's GitHub stats](https://github-stats-extended.vercel.app/api?username=thefujirose)](https://github.com/stats-organization/github-stats-extended)
 
+## 🚀 About Me
 
-<!--
-**TheFujirose/TheFujirose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Pronouns:** He/Him
+* 🔭 **Currently working on:** A project with **Humber Polytechnic's Mechatronics club**. I maintain the website and help with various programs and environments for [HumberASV](https://HumberASV.ca) ([GitHub](https://github.com/HumberASV)).
+* 🌱 **Currently learning:** ROS2, alongside expanding my knowledge of Nvidia and Linux Architecture.
+* 🌐 **Portfolio:** Check out the projects I'm currently showcasing at [thefujirose.github.io](https://thefujirose.github.io/).
+* 👯 **Collaboration:** I'm always open to collaborating on new and interesting projects.
 
-Here are some ideas to get you started:
+## 📫 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Email:** [carsonfujita@gmail.com](mailto:carsonfujita@gmail.com)
+
+---
+⭐️ *From [TheFujirose](https://github.com/TheFujirose)*
